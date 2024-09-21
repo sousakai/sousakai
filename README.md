@@ -4,7 +4,7 @@ Me chamo Kayke Gon√ßalves de Sousa, e estou no segundo semestre da minha gradua√
 
 <div align="center">
 <a href="https://github.com/sousakai">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousakai&layout=compact&langs_count=7&theme=dracula" height="180em" width="450"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sousakai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousakai&layout=compact&langs_count=7&theme=dracula" height="180em" width="700"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sousakai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
 </div>
           
 ## Ferramentas e Tecnologias:
