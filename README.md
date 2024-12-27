@@ -1,6 +1,9 @@
 # Sobre mim
 
 Me chamo Kayke Gonçalves de Sousa, e estou no terceiro semestre da minha graduação em Análise e Desenvolvimento de Sistemas. 
+## Contato:
+[LinkedIn](linkedin.com/in/kayke-sousa/)
+[E-mail](mailto:kayke.gsousa15@gmail.com)
 
 <div align="center">
 <a href="https://github.com/sousakai">
