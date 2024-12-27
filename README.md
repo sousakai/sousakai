@@ -1,6 +1,6 @@
 # Sobre mim
 
-Me chamo Kayke Gonçalves de Sousa, e estou no segundo semestre da minha graduação em Análise e Desenvolvimento de Sistemas. 
+Me chamo Kayke Gonçalves de Sousa, e estou no terceiro semestre da minha graduação em Análise e Desenvolvimento de Sistemas. 
 
 <div align="center">
 <a href="https://github.com/sousakai">
