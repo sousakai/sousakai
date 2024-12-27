@@ -8,7 +8,7 @@ Me chamo Kayke Gonçalves de Sousa, e estou no terceiro semestre da minha gradua
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousakai&layout=compact&langs_count=7&theme=dracula" height="180em" width="450"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sousakai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
 </div>
 
-### Contato:
+## Contato:
 [LinkedIn](linkedin.com/in/kayke-sousa/)  [E-mail](mailto:kayke.gsousa15@gmail.com)
 
 ## Ferramentas e Tecnologias:
