@@ -57,9 +57,8 @@ Profissional com foco em desenvolvimento backend, sustentação de sistemas, map
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sousakai&dogstock&theme=dracula&hide_border=true)](https://github.com/sousakai/dogstock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sousakai&repo=dogstock&theme=dracula&hide_border=true)](https://github.com/sousakai/dogstock)
 
-*Adicione seus projetos principais aqui!*
 
 </div>
 
