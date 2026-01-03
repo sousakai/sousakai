@@ -38,17 +38,6 @@ Profissional com foco em desenvolvimento backend, sustentação de sistemas, map
 
 ---
 
-## 📈 **Principais Projetos**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sousakai&repo=dogstock&theme=dracula&hide_border=true)](https://github.com/sousakai/dogstock)
-
-
-</div>
-
----
-
 <div align="center">
   
 ![GitHub Views](https://komarev.com/ghpvc/?username=sousakai&color=blueviolet&style=flat-square)
@@ -60,3 +49,10 @@ _- Bill Gates_
 </div>
 
 ---
+
+## 📈 **Principais Projetos**
+
+<div align="center">
+
+</div>
+
