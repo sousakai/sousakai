@@ -6,18 +6,6 @@ Profissional com foco em desenvolvimento backend, sustentação de sistemas, map
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=sousakai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&hide_title=false&random=1)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sousakai&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117&random=1)
-
-</div>
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 
