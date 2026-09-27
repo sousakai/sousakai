@@ -1,6 +1,6 @@
 # 👋 Olá! Sou Kayke Gonçalves
 
-**Analista de Sistemas Jr.** na Jequiti · Graduado em Análise e Desenvolvimento de Sistemas (UNICID)
+**Analista de Sistemas** na Jequiti Cosméticos · Graduado em Análise e Desenvolvimento de Sistemas (UNICID)
 
 Integro sistemas, desenvolvo soluções e dou suporte a aplicações em produção — com experiência em plataformas de e-commerce como VTEX e integrações com ERP.
 
@@ -39,7 +39,8 @@ Integro sistemas, desenvolvo soluções e dou suporte a aplicações em produç�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="40" height="40" title="NetBeans" />
 </p>
 
 ---
